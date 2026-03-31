@@ -1,0 +1,14 @@
+c:\Users\Felipe\Labdotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.exe
+C:\Users\Felipe\Labdotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.deps.json
+C:\Users\Felipe\Labdotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.runtimeconfig.json
+c:\Users\Felipe\Labdotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.dll
+c:\Users\Felipe\Labdotnet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.pdb
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfoInputs.cache
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfo.cs
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.csproj.CoreCompileInputs.cache
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.dll
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\refint\SistemaRobusto.dll
+c:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.pdb
+C:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.genruntimeconfig.cache
+C:\Users\Felipe\Labdotnet\SistemaRobusto\obj\Debug\net10.0\ref\SistemaRobusto.dll
